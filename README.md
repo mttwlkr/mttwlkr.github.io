@@ -10,7 +10,7 @@ The rest of the boxes each signify a major, top-20 blockchain currency, token or
 
 The right-side hero is where the news stories for that coin would toggle. On mobile this is shows up just below the header box. The dots/arrows show that these stories can swipe. I felt the arrows were too crowded on mobile and the three dots gave enough direction.
 
-For the purpose of this, I have shown a news story from Ethereum about the release of their Homestead update. So, the ethereum box is selected on load and it's news story is shown. 
+For the purpose of this, I have a news story from Ethereum about the release of their Homestead update. So, the ethereum box is selected on load and it's news story is shown. 
 
 
 
